@@ -1,3 +1,3 @@
 #!/bin/bash
 
-nano up_to_date
+touch up_to_date
