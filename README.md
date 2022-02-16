@@ -1,3 +1,3 @@
 # alx-pre_course
 
-__First README file inalx-pre_course repo__
+__First README file in alx-pre_course repo__
